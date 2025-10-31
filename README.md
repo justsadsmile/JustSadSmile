@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=justsadsmile&show_icons=true&locale=en&layout=compact&theme=discord_old_burple" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=justsadsmile&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="ovi" />
